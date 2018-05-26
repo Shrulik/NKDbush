@@ -1,7 +1,7 @@
 ## NKdbush 
 
 A static spatial index for 2D points based on a flat KD-tree for .Net 
-Ported direclty from a JS library [kdbush](https://github.com/mourner/kdbush) :
+( ported direclty from the JS library [kdbush](https://github.com/mourner/kdbush) ) :
 
 - points only — no rectangles
 - static — you can't add/remove items
