@@ -1,5 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>NKDBush</PackageId>
+    <Authors>Shrulik</Authors>
+    <Product>NKDBush</Product>
+    <Description>A fast static index for 2D points for dotnet
+</Description>
+    <PackageTags>spatial kdtree kd-tree index</PackageTags>
+    <RepositoryType>https://github.com/Shrulik/NKDbush</RepositoryType>
+    <RepositoryUrl>https://github.com/Shrulik/NKDbush</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Shrulik/NKDbush</PackageProjectUrl>
+    <Copyright>ISC License</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 </Project>
